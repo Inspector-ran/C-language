@@ -1,0 +1,32 @@
+# 编译输出
+/build/
+/out/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# IDE 缓存与本地用户设置
+.vs/
+.idea/
+ipch/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
